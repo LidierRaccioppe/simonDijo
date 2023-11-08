@@ -11,13 +11,14 @@
   <component name="ChangeListManager">
     <list default="true" id="392a37c9-f103-4d91-8dad-e10f075d8cc2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../IconoInstagram/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/ui/theme/MyViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/ui/theme/UI.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../botonAleatorio/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mvvm/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mvvm/app/src/main/res/drawable/giu2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IconoInstagram/app/src/main/java/com/dam/iconoinstagram/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../IconoInstagram/app/src/main/java/com/dam/iconoinstagram/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LaPrimera" beforeDir="false" afterPath="$PROJECT_DIR$/../LaPrimera" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/ui/theme/MyViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/ui/theme/MyViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/ui/theme/UI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/ui/theme/UI.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mvvm/app/src/main/java/com/dam/mvvm/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../mvvm/app/src/main/java/com/dam/mvvm/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mvvm/app/src/main/java/com/dam/mvvm/ui/theme/MyViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../mvvm/app/src/main/java/com/dam/mvvm/ui/theme/MyViewModel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mvvm/app/src/main/java/com/dam/mvvm/ui/theme/UI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../mvvm/app/src/main/java/com/dam/mvvm/ui/theme/UI.kt" afterDir="false" />
