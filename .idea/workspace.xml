@@ -11,12 +11,18 @@
   <component name="ChangeListManager">
     <list default="true" id="392a37c9-f103-4d91-8dad-e10f075d8cc2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../IconoInstagram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimonDice/app/src/main/java/com/dam/simondice/DatosSingleton.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/DatosSingleton.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../botonAleatorio/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mvvm/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mvvm/app/src/main/res/drawable/giu2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IconoInstagram/app/src/main/java/com/dam/iconoinstagram/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../IconoInstagram/app/src/main/java/com/dam/iconoinstagram/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LaPrimera" beforeDir="false" afterPath="$PROJECT_DIR$/../LaPrimera" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/SimonMeMolesta.app.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/ui/theme/MyViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/ui/theme/MyViewModel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/ui/theme/UI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dam/simonmemolesta/ui/theme/UI.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mvvm/app/src/main/java/com/dam/mvvm/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../mvvm/app/src/main/java/com/dam/mvvm/MainActivity.kt" afterDir="false" />
@@ -29,7 +35,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R58M7172WXT]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/dam2/.android/avd/Pixel_XL_API_26.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -39,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
       </list>
     </option>
   </component>
@@ -62,7 +69,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
